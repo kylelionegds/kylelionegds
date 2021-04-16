@@ -5,7 +5,7 @@
 ---
 
 <br>
-<p align="center"> <samp>Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> My name is Caio Egds.👽 I just started programming at the end of last year, but this new life won me over totally like never other before. My first goal is reaching the state of full stack web developer. In my repos you'll find this progress using my current tech stack. Thanks a lot for the visit! Let's code, folks! 🖥⌨🌍 
+<p align="center"> <samp>Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> My name is Caio Egds.👽 I just started programming at the end of last year, but this new life totally won me over like never other before. My first goal is reaching the state of full stack web developer. In my repos you'll find this progress using my current tech stack. Thanks a lot for the visit! Let's code, folks! 🖥⌨🌍 
 <br>
  
 <details align="center">
@@ -16,10 +16,11 @@
   <img align="right" alt="GIF" height="190px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
    
-   <p align="center">Now Playing 🎧  
+   
    
    [![Spotify](https://novatorem-one-khaki.vercel.app/api/spotify)](https://open.spotify.com/user/12156243433)
-
+   <p align="center">Now Playing 🎧  
+ 
 </details>
 
 ---
