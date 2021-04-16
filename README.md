@@ -9,7 +9,7 @@
 <br>
  
 <details align="center">
-  <summary><img src="https://img.shields.io/badge/-more%20things%20about%20me-black"></summary>
+  <summary><img src="https://img.shields.io/badge/-a%20little%20bit%20about%20me-black"></summary>
   <br> 
   <img src="https://github.com/kylelionegds/kylelionegds/blob/main/aboutme.png?raw=true">
   <br>
